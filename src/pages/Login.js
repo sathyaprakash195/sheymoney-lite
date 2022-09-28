@@ -77,7 +77,7 @@ function Login() {
   };
 
   return (
-    <div className="flex h-screen justify-center items-center">
+    <div className="flex h-screen justify-center items-center auth">
       <Card
         sx={{
           width: 400,
