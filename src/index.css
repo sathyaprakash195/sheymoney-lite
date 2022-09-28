@@ -62,12 +62,12 @@ input{
 
 .container{
   height: 85vh !important;
-  overflow-y: scroll !important;
 }
 
-/* .mantine-xoj88x{
+.mantine-xoj88x{
   height: 100% !important;
-} */
+  overflow: scroll !important;
+}
 
 .auth{
   background-color: #12B886;
